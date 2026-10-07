@@ -1,0 +1,80 @@
+{
+ "partners": {
+  "iq-capital": {
+   "banners": [
+    "partner/iq-capital/01.jpg",
+    "partner/iq-capital/02.jpg",
+    "partner/iq-capital/03.jpg",
+    "partner/iq-capital/04.jpg"
+   ],
+   "stories": [
+    "partner/iq-capital/story/01.jpg",
+    "partner/iq-capital/story/02.jpg",
+    "partner/iq-capital/story/03.jpg",
+    "partner/iq-capital/story/04.jpg"
+   ],
+   "name": "IQ Capital",
+   "link": "https://checkout.iqcapital.io/products?aff=tradx",
+   "kind": "prop",
+   "jannick_nutzt_selbst": true
+  },
+  "atas": {
+   "banners": [
+    "partner/atas/01.jpg",
+    "partner/atas/02.jpg",
+    "partner/atas/03.jpg",
+    "partner/atas/04.jpg",
+    "partner/atas/05.jpg",
+    "partner/atas/06.jpg",
+    "partner/atas/07.jpg"
+   ],
+   "name": "ATAS",
+   "link": "https://atas.net/de/?rs=oft512627",
+   "kind": "software",
+   "jannick_nutzt_selbst": true
+  },
+  "ftmo": {
+   "banners": [
+    "partner/ftmo/01.jpg",
+    "partner/ftmo/02.jpg",
+    "partner/ftmo/03.jpg"
+   ],
+   "name": "FTMO",
+   "link": "https://ftmo.com/?affiliates=YBohqMERlJEkFjxJZwxE&utm_campaign=YBohqMERlJEkFjxJZwxE&utm_medium=affiliate&utm_source=affiliate",
+   "kind": "prop",
+   "jannick_nutzt_selbst": false
+  },
+  "tradingview": {
+   "banners": [
+    "partner/tradingview/01.jpg",
+    "partner/tradingview/02.jpg"
+   ],
+   "name": "TradingView",
+   "link": "https://de.tradingview.com/pricing/?share_your_love=kingasar",
+   "kind": "software",
+   "jannick_nutzt_selbst": true
+  },
+  "tradersync": {
+   "banners": [
+    "partner/tradersync/01.jpg"
+   ],
+   "name": "TraderSync",
+   "link": "https://tradersync.com?ref=tradx",
+   "kind": "software",
+   "jannick_nutzt_selbst": false
+  }
+ },
+ "reihenfolge": [
+  "iq-capital",
+  "atas",
+  "ftmo",
+  "iq-capital",
+  "atas",
+  "iq-capital",
+  "ftmo",
+  "tradingview",
+  "iq-capital",
+  "tradersync"
+ ],
+ "telegram": "https://t.me/jannicktrades"
+}
