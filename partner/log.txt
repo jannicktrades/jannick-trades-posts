@@ -1,2 +1,3 @@
 2026-10-09;iq-capital;partner/iq-capital/01.jpg;partner/iq-capital/story/01.jpg
 2026-10-11;atas;partner/atas/01.jpg;
+2026-10-14;ftmo;partner/ftmo/01.jpg;partner/ftmo/01.jpg
