@@ -4,3 +4,4 @@
 2026-10-16;iq-capital;partner/iq-capital/02.jpg;partner/iq-capital/story/02.jpg
 2026-10-18;atas;partner/atas/02.jpg;
 2026-11-11;iq-capital;partner/iq-capital/03.jpg;partner/iq-capital/story/03.jpg
+2026-11-13;ftmo;partner/ftmo/02.jpg;partner/ftmo/02.jpg
