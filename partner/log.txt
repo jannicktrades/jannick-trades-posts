@@ -10,3 +10,4 @@
 2026-11-20;tradersync;partner/tradersync/01.jpg;partner/tradersync/01.jpg
 2026-11-22;iq-capital;partner/iq-capital/01.jpg;partner/iq-capital/story/01.jpg
 2026-11-25;atas;partner/atas/03.jpg;partner/atas/03.jpg
+2026-11-27;ftmo;partner/ftmo/03.jpg;partner/ftmo/03.jpg
